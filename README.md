@@ -32,4 +32,4 @@ Originally built as a college minor project in 2019, the system uses:
 1. Clone the repository:
    ```bash
    git clone https://github.com/agargya123/FitAR
-   cd Minor
+   cd FitAR
